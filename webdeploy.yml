@@ -53,5 +53,5 @@ spec:
          volumes:
          -  name: webdeploy-pv
             persistentVolumeClaim:
-               claimName: owncloud-pvc
+               claimName: web-pvc
 
