@@ -33,7 +33,7 @@ metadata:
      app: webdeploy
 spec:
    selector:
-     matchlabels:
+     matchLabels:
          app: webdeploy
    replicas: 1
    template:
